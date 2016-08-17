@@ -1,5 +1,3 @@
-package hunter;
-
 import java.util.Scanner;
 
 public class ReverseWordsInPlace {
